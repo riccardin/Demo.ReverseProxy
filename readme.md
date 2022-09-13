@@ -12,4 +12,9 @@ In YARP, the reverse proxy needs to know what the pattern is that you’re looki
 By calling the LoadFromConfig, the proxy expects a section that conforms to the schema of the proxy configuration. It doesn’t matter what you call the section, as long as it’s a set of Routes and Clusters
 
 
+![image](https://user-images.githubusercontent.com/1487507/190009343-081a1456-1232-4705-b7e6-452f593df165.png)
+
+
+
+
 https://microsoft.github.io/reverse-proxy/articles/getting-started.html
